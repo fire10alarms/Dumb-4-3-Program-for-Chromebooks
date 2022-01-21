@@ -1,0 +1,2 @@
+c:/kbserver.contact
+c:/kbserver.send=execute fase 2
